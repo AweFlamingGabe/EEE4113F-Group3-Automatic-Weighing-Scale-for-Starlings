@@ -2,10 +2,10 @@
 This is a repository for an Automatic Scale for Weighing Starling Birds
 
 # Credits got the the following contributors
-Power Submodule - Loïc Kibambo
+Power Submodule - Loïc Kibambo (KBMLOI001)
 
-Housing and Layout Submodule - Masase Netshituka
+Housing and Layout Submodule - Masase Netshituka (NTSMAS024)
 
-Data Collection Submodule - Jana Van Rooyen
+Data Collection Submodule - Jana Van Rooyen (VRYJAN010)
 
-User Interface Submodule - Gabriel Nichollas
+User Interface Submodule - Gabriel Nichollas (NCHGAB001)
