@@ -21,19 +21,19 @@
 
 #define USE_INTRANET
 
-#define WIFI_SSID "TP-Link_516F"
-#define WIFI_PASSWORD "00754712"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define PROJECT_ID "esp32-datalogging-421011"
+#define PROJECT_ID ""
 
 // Service Account's client email
-#define CLIENT_EMAIL "esp32-gabe@esp32-datalogging-421011.iam.gserviceaccount.com"
+#define CLIENT_EMAIL ""
 
 // Service Account's private key
-const char PRIVATE_KEY[] PROGMEM = "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqwHDn0Ib8W6se\nuFO1KVS1kXxEBGvNJGeS/4G3odss9r4VuiRfqR2Sq3HYmkcgaEg4G87DOryoSZYe\nVWrLFAW0bLvXHIXJWRXT/X/vHNnb1Rhaxz7BSr5il+WVYxz960mhjMvtKwGd/CZj\nJPuBaLYtX1skFUuQChz3qvvSyYWDQmA0ri2+6yosZ/lQKEfJliNj47A1b1T5kGqo\nXtjR/FIR1kGOCUVGqEU34KLpTGtjnCJjf/izSDpX8J3WRKXSJqdadCMXl5U/RgRL\nZYXUYFo7mISbrikyLYGzO6FCzN1Kd8wACqbGGiMz1hSKw77QcuV37CxOwaNrbEP8\nwPUIWOiRAgMBAAECggEAAI3zEjLJepL1NFXw+ROGiJMf6G5+h42eiFe1I+F72rBG\nlGQgLS803w6YisxZLCOE1xc7vbDqvv3fClH2echHU7/qgGKBpgAhvNYIXwBycoX8\nPKeEDmeP+38yIyEEhGfcKT6tMm0BJfJwo1RtTs0GNrYmGMxdVWrgIf3nnfHLzSlr\nr2J2e+csyLXOujsS1U+iLC5ZEBs4B1iJq0nSF4BlrwZhHYG4i/TA0q2epvph4U7j\n/QYGlHw6Cu453e04vtrVnl/aYaRXKfMKoNZbmPvK1qgRoe77Ci6DtVqEqip3NElk\n5/HAOGovLaeT6072kKrepWJcyMprlJcpPZKOeYuLUQKBgQDt7S5tvXhPb5kemeR7\npYI+nxzrBWVxNx0H4s4qlz0AnnsZsxtVneeu4qm8w3j3LGNoJwqLuobwOG+rA3KW\nmfcoePkNKQONSasffTNUia3EhLCI1lpy7Sdo7GZ1nx5sTx61qVz5gSwg7obT4KOK\nHyfiiSkGGX3W0DuZbXdSBGRDmQKBgQC3uPNtmPM1m5NX8B0kZCDjJPuTXarJAOC+\nnXPemgvdgjr7UEdxqKY3uyRfTo26cPpsEOFNmPisswyvGzsa2wmX+d+QB+pmYYgn\n1xsHgq2kxOTM5fgyJL0GVWcgl4no1oqldibBY+PNG6F5xEIf6h8zmhPXMRwAUUQH\noZ42KS3nuQKBgAs7hVOc/E8Tv7DYJxdHSwzVyjG2QYHEzlQO+xi7px+eW8Vs1T+H\nguaYwNaui8lviQnjvfW2yqQQpgT21rQRdL+uZmOeqhJDhhaofIHjNhbvBL6REBgY\n5iFn97ZZ2r/WRGbjJgaJeKHdYPQjyNS+f82MGCm3jl9T2Vx29Ikkt+8RAoGAQdvd\n/2q1vIDRl9NuTu5Jz8MhH9mS8E0NQ6djsudb24Lkq9RCWB8RvqaqSjP5oF0BmB2Q\n9mUgt5/Tqy3CyUS9sqoTFymPQDY0PbvhZ5bTsl4WetDxYOBElnGk700DVeEagGfT\nSr4JGiyOfPz6i0A9AR15gUmMdRysm2O3OEkYuJkCgYBibIsAwn3xWiJS1C1M4Cao\na2KCfce1wMzowwppp31Z4jZQHKWRE2Q0uJVqpneXPAPH41bBBpiKi3cDGgd0Yy7M\nVwDLR7VsfTifCmLg7Bm39VZYm57wJZPtQelyLqHXXuA1/Wrz9kqAjCfnlVbIp8kT\n7EhdRkMw3aNARPWlcdeE3g==\n-----END PRIVATE KEY-----\n";
+const char PRIVATE_KEY[] PROGMEM = "-----BEGIN PRIVATE KEY-----\n\n-----END PRIVATE KEY-----\n";
 
 // The ID of the spreadsheet where you'll publish the data
-const char spreadsheetId[] = "1W542kVC0odtTMUtQyWMngZ3MoQ2OUfFQWVREKFUJkys";
+const char spreadsheetId[] = "";
 
 #define PIN_A0 34     // some analog input sensor
 #define PIN_A1 35     // some analog input sensor
